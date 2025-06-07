@@ -11,6 +11,7 @@
 
 ### 🧰 Tech Stack
 
+  
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=node.js&logoColor=white)
@@ -47,7 +48,7 @@
 ### 📫 Reach Me
 
 - 💼 [LinkedIn](www.linkedin.com/in/romain-corfmat-bab0b7118)
-- 🌐 [Portfolio](romaincorfmat.pro) 
+- 🌐 [Portfolio](https://romaincorfmat.pro) 
 - ✉️ romain.corfmatpro@gmail.com
 
 ---
