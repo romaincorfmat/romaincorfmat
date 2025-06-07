@@ -1,32 +1,68 @@
+<!-- PROFILE README START -->
 
-# 👋 Hi there, I’m Romain Corfmat
+<h1 align="center">Hi 👋, I'm Romain Corfmat</h1>
+<h3 align="center">Full-Stack Developer · Self-Taught · Passionate Builder</h3>
 
-I’m a passionate self-taught **Full-Stack Developer** based in Australia 🇦🇺, originally from France 🇫🇷, with a background in logistics and a deep interest in building clean, scalable, and user-focused applications.
-
-With a strong focus on practical, real-world projects, I enjoy creating tools that solve problems — from e-commerce platforms to productivity tools and travel-related SaaS projects.
+<p align="center">
+  🇫🇷 French-born · 🇦🇺 Based in Australia · 💻 Currently building real-world web apps
+</p>
 
 ---
 
-## 🧰 Tech Stack
+### 🧰 Tech Stack
 
-```ts
-Frontend     →  Next.js · React · TypeScript · Tailwind CSS · Shadcn/ui  
-Backend      →  Node.js · Express.js · Appwrite · REST APIs  
-Database     →  MongoDB · Prisma · PostgreSQL  
-Tools        →  Git · GitHub · Vercel · Render · PNPM · Postman  
-Practices    →  MVC Architecture · Server Actions · API Validation · Authentication
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express-000?&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?&logo=prisma&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?&logo=typescript&logoColor=white)
+![Appwrite](https://img.shields.io/badge/-Appwrite-F02E65?&logo=appwrite&logoColor=white)
 
-<!--
-**romaincorfmat/romaincorfmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠 Projects I'm Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛒 **E-Commerce Platform** — Orders, shopping cart, invoices, admin dashboard  
+- 🎯 **QuestBoard** — RPG-style task tracker with XP, leveling, pixel avatars  
+- 📅 **Event Booking System** — Booking engine with admin tools and auth  
+- 🧾 **Invoice Generator** — Auto-PDF invoices with HTML → PDF rendering  
+- 🧭 **Backpacker Helper App** *(Coming soon)* — Jobs, travel info & community for WHV travelers
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=romaincorfmat&show_icons=true&theme=github_dark" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=romaincorfmat&theme=github-dark" width="49%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romaincorfmat&layout=compact&theme=github_dark" width="49%" />
+</p>
+
+---
+
+### 📫 Reach Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/romaincorfmat/)
+- 🌐 Portfolio: *(Coming soon)*
+- ✉️ romain.corfmat@gmail.com
+
+---
+
+### 🚀 What I'm Learning
+
+- Advanced Node.js & clean architecture
+- SaaS design patterns
+- MongoDB performance tuning
+- Cantonese (language learning 🇨🇳)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=100&section=footer"/>
+</p>
+
+<!-- PROFILE README END -->
