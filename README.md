@@ -46,9 +46,9 @@
 
 ### 📫 Reach Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/romaincorfmat/)
-- 🌐 Portfolio: *(Coming soon)*
-- ✉️ romain.corfmat@gmail.com
+- 💼 [LinkedIn](www.linkedin.com/in/romain-corfmat-bab0b7118)
+- 🌐 [Portfolio](romaincorfmat.pro) 
+- ✉️ romain.corfmatpro@gmail.com
 
 ---
 
@@ -57,12 +57,15 @@
 - Advanced Node.js & clean architecture
 - SaaS design patterns
 - MongoDB performance tuning
-- Cantonese (language learning 🇨🇳)
 
 ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=100&section=footer"/>
+</p>
+
+<p align='center'>
+  ![](https://raw.githubusercontent.com/romaincorfmat/romaincorfmat/output/github-contribution-grid-snake.svg)
 </p>
 
 <!-- PROFILE README END -->
